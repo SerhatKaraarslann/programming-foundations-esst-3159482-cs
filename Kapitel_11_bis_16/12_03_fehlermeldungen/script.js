@@ -6,7 +6,7 @@ function secondFunction() {
 	thirdFunction();
 }
 function thirdFunction() {
-	fourthfunction();
+	fourthFunction();
 }
 function fourthFunction() {
 	headline.innerHTML = "Sie haben auf die Headline geklickt. ";

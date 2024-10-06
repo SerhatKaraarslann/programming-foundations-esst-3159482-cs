@@ -18,7 +18,7 @@ function thirdFunction() {
 		total = total + 100;
 		i++;
 	}   
-	fourthfunction();
+	fourthFunction();
 }
 function fourthFunction() {
 	headline.innerHTML = "Sie haben auf die Headline geklickt. ";
